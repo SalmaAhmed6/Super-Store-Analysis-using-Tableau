@@ -47,8 +47,7 @@ The Top 10 Dashboard focuses on identifying top-performing countries and states 
 
 
 ## Project Demo
-[![Watch the video](demo.mp4)
-
+https://github.com/SalmaAhmed6/Super-Store-Analysis-using-Tableau/assets/153770479/7a16cdfe-2c6c-48fb-b935-2f333e962272
 
 
 
