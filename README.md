@@ -47,7 +47,7 @@ The Top 10 Dashboard focuses on identifying top-performing countries and states 
 
 
 ## Project Demo
-![alt text](demo.mp4)
+[![Watch the video](demo.mp4)
 
 
 
